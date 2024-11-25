@@ -5,5 +5,4 @@ Though this is a personal challenge, I might end up needing help from other peop
 # Other Stuff
 I want to make this AI favor coding questions rather than prompts like; 'Whats 2 times 2?' or 'What year did the french revolution happen?'.
 # To-Do
-* d
-* d
+* Figure out how to make this learn stuff
