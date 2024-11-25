@@ -1,5 +1,4 @@
 #/bin/bash
-
 # This file is for saving to github from codespaces
 
 git add .
