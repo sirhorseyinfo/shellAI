@@ -7,7 +7,7 @@ git commit -m "Remote from codespaces"
 git push origin main
 clear
 
-sleep 1
+sleep 0.3
 echo "Saved."
 sleep 1
 
