@@ -1,2 +1,4 @@
 hello: Hi there!
 exit: Goodbye!
+Whats the weather?: I'm sorry, but I cannot determine the weather in your area.
+how are you?: I'm great! I hope you feel the same.
