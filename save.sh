@@ -9,6 +9,6 @@ clear
 
 sleep 0.3
 echo "Saved."
-sleep 1
+sleep 1.3
 
 clear
