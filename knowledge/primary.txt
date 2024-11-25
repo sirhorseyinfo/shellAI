@@ -1,4 +1,7 @@
-hello: Hi there!
-exit: Goodbye!
-Whats the weather?: I'm sorry, but I cannot determine the weather in your area.
+hello: Hi there! I'm here for (almost) any question you have for me!
+exit: ...
+whats the weather?: I'm sorry, but I cannot determine the weather in your area.
 how are you?: I'm great! I hope you feel the same.
+who are you?: I'm Shellby, an AI programmed intirely from shell code.
+what are you?: I'm Shellby, an AI programmed intirely from shell code.
+why do you exist?: Alright now, calm down. I was programmed as a fun side project. If you have any more questions I will be happy to help.

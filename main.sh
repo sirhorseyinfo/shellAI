@@ -3,6 +3,10 @@
 # Load knowledge base
 knowledge_file="knowledge/primary.txt"
 
+goodbye_animation() {
+  
+}
+
 # Function to find a response
 get_response() {
   local query="$1"
@@ -15,7 +19,7 @@ echo "Ask me something (type \"exit\" to quit):"
 while true; do
   read -p "> " user_input
   if [[ "$user_input" == "exit" ]]; then
-    echo "Goodbye!"
+    goodbye_animation
     break
   fi
   get_response "$user_input"
