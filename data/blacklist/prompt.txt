@@ -1,35 +1,139 @@
-#Good heavens, please forgive me for my language. This is but necessary for the AI.
-
-#A
-
+# A
 Ass
 ass
+Asshole
+asshole
 
+# B
+Butt
+butt
+Bitch
+bitch
+Balls
+balls
+Ballsack
+ballsack
+Bastard
+bastard
 
-#B
+# C
+Crap
+crap
+Cunt
+cunt
 
-#C
+# D
+Dick
+dick
+Dildo
+dildo
+Douche
+douche
 
-#D
+# E
+Effing
+effing
 
-#E
+# F
+Faggot
+faggot
+Fuck
+fuck
+Fucker
+fucker
+Fucking
+fucking
 
-#F
+# G
+Goddamn
+goddamn
 
-#G
+# H
+Hell
+hell
+Hoe
+hoe
 
-#H
+# I
+Idiot
+idiot
 
-#I
+# J
+Jackass
+jackass
+Jerk
+jerk
 
-#J
+# K
+Knob
+knob
 
-#K
+# L
+Ligma
+ligma
+Loser
+loser
 
-#L
+# M
+Moron
+moron
+Motherfucker
+motherfucker
 
-#M
+# N
+Nigga
+nigga
+Nigger
+nigger
 
-#N
+# O
+Orgy
+orgy
 
-#0
+# P
+Piss
+piss
+Pussy
+pussy
+
+# Q
+Queer
+queer
+
+# R
+Retard
+retard
+
+# S
+Shit
+shit
+Shitty
+shitty
+Slut
+slut
+
+# T
+Tits
+tits
+Titty
+titty
+Twat
+twat
+
+# U
+Ugly
+ugly
+
+# V
+Vagina
+vagina
+
+# W
+Whore
+whore
+
+# X (NONE)
+
+# Y (NONE)
+
+# Z (NONE)

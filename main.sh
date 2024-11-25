@@ -1,12 +1,24 @@
-#/bin/bash
+#!/bin/bash
 
-clear
-echo "(AI): Hi, I'm Shellby! I'm a responsive AI built primarily from shell.
-How can I help you today?"
+# Load knowledge base
+knowledge_file="knowledge/primary.txt"
 
-sleep 1
-echo "
-(!Err!): Uh oh. Looks like this version does not have actual AI capibility."
-sleep 1.2
+# Function to find a response
+get_response() {
+  local query="$1"
+  response=$(grep -i "^$query:" "$knowledge_file" | cut -d':' -f2-)
+  echo "${response:-I dont understand.}"
+}
+
+# Main interaction loop
+echo "Ask me something (type \"exit\" to quit):"
+while true; do
+  read -p "> " user_input
+  if [[ "$user_input" == "exit" ]]; then
+    echo "Goodbye!"
+    break
+  fi
+  get_response "$user_input"
+done
 
 exit

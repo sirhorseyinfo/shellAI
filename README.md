@@ -3,9 +3,7 @@ Shell AI is an AI written exclusively in shell script to run in the terminal. Th
 # Help and contribution
 Though this is a personal challenge, I might end up needing help from other people. I'm not very smart, hence why I'm even trying this in the first place.
 # Other Stuff
-I want to make this AI favor coding questions rather than prompts like; 'Whats 2 times 2?' or 'What year did the french revolution happen?'.
+I want to make this AI for fun, so i'm not gonna worry about it too much.
 # To-Do
 * Add blacklist for promts and responces
 * Add a feature that saves prompts
-* Figure out how to make this learn stuff, and then code it somewhere
-* Figure out how to have the AI proccess prompts
