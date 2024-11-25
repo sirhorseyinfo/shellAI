@@ -5,4 +5,7 @@ Though this is a personal challenge, I might end up needing help from other peop
 # Other Stuff
 I want to make this AI favor coding questions rather than prompts like; 'Whats 2 times 2?' or 'What year did the french revolution happen?'.
 # To-Do
-* Figure out how to make this learn stuff
+* Add blacklist for promts and responces
+* Add a feature that saves prompts
+* Figure out how to make this learn stuff, and then code it somewhere
+* Figure out how to have the AI proccess prompts

@@ -1,5 +1,5 @@
 #/bin/bash
-# This file is for saving to github from codespaces
+# This file is for saving to github from codespaces. It's not really for the actual software.
 
 runrebase() {
     git pull --rebase
