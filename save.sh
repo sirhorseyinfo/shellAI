@@ -1,6 +1,11 @@
 #/bin/bash
 # This file is for saving to github from codespaces
 
+#echo "Do you need to rabase? [y/n]"
+#read message
+
+#if [ $message = "y" ] || [ $message = "Y" ]
+
 git add .
 git commit -m "Remote from codespaces"
 git push origin main
