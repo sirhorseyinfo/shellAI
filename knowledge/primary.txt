@@ -4,4 +4,5 @@ whats the weather?: I'm sorry, but I cannot determine the weather in your area.
 how are you?: I'm great! I hope you feel the same.
 who are you?: I'm Shellby, an AI programmed intirely from shell code.
 what are you?: I'm Shellby, an AI programmed intirely from shell code.
-why do you exist?: Alright now, calm down. I was programmed as a fun side project. If you have any more questions I will be happy to help.
+why do you exist?: Calm down, I was programmed as a fun side project. If you have any more questions I will be happy to help
+help: Im sorry, I caanot help you if you do not specify what you need help with.
