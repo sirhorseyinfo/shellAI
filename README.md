@@ -3,4 +3,4 @@ Shell AI is an AI written exclusively in shell script to run in the terminal. Th
 # Help and contribution
 Though this is a personal challenge, I might end up needing help from other people. I'm not very smart, hence why I'm even trying this in the first place.
 # Other Stuff
-My Email: [shrashep@outlook.com] (mailto:shrashep@outlook.com)
+My Email: [shrashep@outlook.com]
