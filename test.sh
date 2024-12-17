@@ -1,8 +1,8 @@
 #/bin/bash
 
 # file links
-MEMORY_FILE=”(path to memory file)”
-LOG_FILE=”(path to overall log sheet)”
+MEMORY_FILE=”knowledge/primary.txt”
+LOG_FILE=”log.txt”
 
 
 store_interaction() {
@@ -54,8 +54,7 @@ match_prompt() {
 
 generate_response() {
   local input=”$1”
-  local matched_prompt
-  matched_prompt=$(match_prompt “$input”)
+  local matched_prompt=$(match_prompt “$input”)
 
   if [[ -n “$matched_prompt” ]]; then
     local response=””
